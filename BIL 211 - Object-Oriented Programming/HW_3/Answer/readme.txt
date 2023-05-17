@@ -1,0 +1,1 @@
+Elimden geldigince test case yazmaya calistim onlari kullanabilirsiniz.
